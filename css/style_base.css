@@ -135,7 +135,7 @@ nav ul li a:hover::before{
     border-bottom: 10px solid rgb(202, 66, 129);
     border-left: 10px solid rgba(66,139,202,.2);
      /* animation: ; */
-     animation: spinner infinite linear 500ms;
+     animation: spinner infinite linear 750ms;
  }
 
 /* keyframes
